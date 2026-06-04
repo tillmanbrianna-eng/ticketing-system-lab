@@ -1,1 +1,1 @@
-
+# Spiceworks Dashboard Screenshot
